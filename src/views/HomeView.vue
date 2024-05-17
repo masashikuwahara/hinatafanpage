@@ -9,6 +9,9 @@
       <Pagination />
     </template>
   </Carousel>
+  <h2>ようこそ、<br>
+    ここは日向坂46のファンページです。
+  </h2>
 </template>
 
 <script>
