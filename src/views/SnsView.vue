@@ -35,7 +35,8 @@ export default {
         { text: '松田好花', url: 'https://instagram.com/matsudakonoka.yahos' },
         { text: '上村ひなの', url: 'https://www.instagram.com/hinanokamimura.official' },
         { text: '森本茉莉', url: 'https://www.instagram.com/mariemorimoto_official' },
-        { text: '髙橋未来虹', url: 'https://www.instagram.com/mikuni.takahashi__' }
+        { text: '髙橋未来虹', url: 'https://www.instagram.com/mikuni.takahashi__' },
+        { text: '山口陽世', url: 'https://www.instagram.com/haruyoyamaguchi.official/' },
       ]
     }
   }
